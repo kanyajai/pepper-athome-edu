@@ -1,0 +1,15 @@
+topic: ~CML-dlg()
+language: enu
+
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
+# Replying to speech
+#u:(~hello) ~hello
+
+u:(pepper follow me) I am following you $onStartFollow=1
+
+u:(pepper stop follow me) I am stop following you $onStopFollow=1

@@ -16,6 +16,25 @@
         </message>
     </context>
     <context>
+        <name>carry-my-luggage/behavior.xar:/People Follow/Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <source>I'm ready to follow Please say pepper follow me</source>
+            <comment>Text</comment>
+            <translation type="obsolete">I'm ready to follow Please say pepper follow me</translation>
+        </message>
+        <message>
+            <location filename="carry-my-luggage/behavior.xar" line="0"/>
+            <source>Do you want me to follow you</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Do you want me to follow you</translation>
+        </message>
+    </context>
+    <context>
         <name>carry-my-luggage/behavior.xar:/Speak/Say</name>
         <message>
             <source>Hello</source>
