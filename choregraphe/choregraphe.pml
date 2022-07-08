@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Package name="help-me-carry" format_version="4">
+<Package name="choregraphe" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="carry-my-luggage" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources />

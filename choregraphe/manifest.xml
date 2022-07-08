@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="help-me-carry-2f6c81" version="0.0.0">
+<package uuid="choregraphe-af9f55" version="0.0.0">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -16,6 +16,10 @@
    <triggerSentences/>
    <loadingResponses/>
    <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="carry-my-luggage">
+   <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
  </contents>
